@@ -7,7 +7,7 @@ double calculate_residual_energy(double initial_energy, double total_consumed_en
 
 int main() {
     double initial_energy, total_consumed_energy, residual_energy;
-    printf("============================Ad Hoc Network Energ Calculator============================\n\n ")
+    printf("============================Ad Hoc Network Energ Calculator============================\n\n ");
 
     // Prompt user for the initial energy and total consumed energy
     printf("Enter the initial energy of the node (in Joules):");
